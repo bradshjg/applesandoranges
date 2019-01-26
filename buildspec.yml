@@ -7,4 +7,4 @@ phases:
   build:
     commands:
       - jekyll build
-      - aws s3 sync _site/ s3://applesandoranges
+      - aws s3 sync _site/ s3://www.applesandoranges.club
