@@ -9,3 +9,4 @@ categories: apples
 1. Honeycrisp
 1. Kanzi
 1. Fuji
+1. Gala
